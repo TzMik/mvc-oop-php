@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Finanzas</title>
+    <title>Hello world</title>
 </head>
 <body>
-    <h1>Finanzas</h1>
+    <h1>Hello world</h1>
 </body>
 </html>
